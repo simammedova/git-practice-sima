@@ -1,0 +1,3 @@
+Git bir versiya nezaret sistemidir.
+github layihelerin toplandigi online proqramdir.
+branchlar qrup isi ucun lazimdir.
