@@ -1,1 +1,1 @@
-# git-practice-sima
+biz bu layihede git ve github haqqinda ilkin bacariqlarimizi tekmillesdirmek ve praktika etmek meqsedi ile isleyirik
